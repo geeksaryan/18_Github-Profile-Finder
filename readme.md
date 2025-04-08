@@ -4,7 +4,7 @@ The **GitHub Profile Finder** is a simple web application that allows users to s
 
 ## Live Preview
 
-You can try the app live [here](#).
+You can try the app live [here](https://github-profile-finder-seven-beta.vercel.app/).
 
 ## Features
 
